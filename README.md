@@ -193,12 +193,27 @@ This dashboard helps business stakeholders:
 
 # 📸 Dashboard Preview
 
-Dashboard screenshots are available inside the **Screenshots** folder.
+## Executive Dashboard
 
-- Executive Dashboard
-- Business Overview
-- Customer Insights
-- Geographic & Customer Analysis
+![Executive Dashboard](Screenshots/Executive_Dashboard.png)
+
+---
+
+## Business Overview
+
+![Business Overview](Screenshots/Business_Overview.png)
+
+---
+
+## Customer Insights
+
+![Customer Insights](Screenshots/Customer_Insights.png)
+
+---
+
+## Geographic & Customer Analysis
+
+![Geographic Analysis](Screenshots/Geographic_Customer_Analysis.png)
 
 ---
 
